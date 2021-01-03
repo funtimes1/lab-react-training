@@ -1,0 +1,21 @@
+
+
+.driverCard {
+    width: 100%;
+    height: auto;
+    background-color: cornflowerblue;
+    color:white;
+    font-size: 20px;
+    border-radius: 30px;
+    margin: 20px;
+}
+
+.name {
+    font-size: 30px;
+}
+
+.driverCardImg {
+    height: 100px;
+    width: auto;
+    border-radius: 100%;
+}
